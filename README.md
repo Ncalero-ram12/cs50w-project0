@@ -3,6 +3,7 @@
 Mi proyecto es para las personas que quieren estudiar chino en Nicaragua y no saben dónde lo imparten, o para las personas que solo conocen la academia Nihao, la cuál cobra una cantidad que no todos pueden pagar.
 
 En la barra de direcciones están las páginas "Inicio", "Dónde estudiar", "TOCFL", y "Becas".
+ 
  -En inicio, encuentran una lista de razones para estudiar el idioma.
  
  -Dónde estudiar se centra en las instituciones que imparten chino, cada una de ellas con sus detalles, costos y contactos, en una tabla responsiva.
